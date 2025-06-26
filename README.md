@@ -39,7 +39,7 @@ Light/dark mode toggle
 Mobile responsive, fast-loading UI built with TailwindCSS
 
 ## 🛠️ Tech Stack
-Build fully with Bolt.new for Bolt hackathon. Used Figma to build a wire frame of my project.
+Build fully with Bolt.new for Bolt hackathon. Used Figma to build a wireframe of my project.
 
 ## Challenges Faced 
 Simulating intelligent ML behavior using  prompts within token limits
