@@ -67,5 +67,5 @@ Bolt.new
 Netlify(deployment)
 
 ## Live Demo of App 
- [View NFL Elite Trainer Here (View Web App)](https://nflelitetrainer.netlify.app/) 
+ [View NFL Elite Trainer Here](https://nflelitetrainer.netlify.app/) 
 
